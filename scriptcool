@@ -7,7 +7,7 @@ if u delete the key from the table its just kicking u out
 
 getgenv().cswipe = {
     ['StartUp'] = {
-        ['Key'] = "nboCNjsElVZraafODgfAfaNrUuxEQZsKW",  -- your key given to you
+        ['Key'] = "",  -- your key given to you
         ['Intro'] = false,
         ['Enabled'] = true, -- the ui 
         ['UI Type'] = "Custom Linoria", -- Linoria or Custom Linoria
